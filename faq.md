@@ -15,3 +15,7 @@
 - [2021 年了，uniapp 发展的怎么样了？- 李白龙的回答 - 知乎](https://www.zhihu.com/question/444976489/answer/2169982328)
 - [简直是神仙打架！ 多端统一框架哪家强？ - 知乎](https://zhuanlan.zhihu.com/p/143779783)
 
+### <mark>3）阿拉丁指数</mark>
+
+- [ 2021 年上半年小程序互联网发展白皮书 _行业资讯_阿拉丁指数](https://aldzs.com/viewpointarticle?id=15524)
+- [阿拉丁指数—小程序互联网洞察平台](http://www.aldzs.com/)

@@ -2,7 +2,7 @@
 
 # 01-uni-app 开发企业级小程序
 
-> 课程地址：[实战课程_慕课网](https://coding.imooc.com/class/521.html)
+> 课程地址：[uni-app 开发企业级小程序](https://coding.imooc.com/class/521.html)
 
 ## ★课程介绍
 
