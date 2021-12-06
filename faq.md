@@ -19,3 +19,9 @@
 
 - [ 2021 年上半年小程序互联网发展白皮书 _行业资讯_阿拉丁指数](https://aldzs.com/viewpointarticle?id=15524)
 - [阿拉丁指数—小程序互联网洞察平台](http://www.aldzs.com/)
+
+4）小程序 ID 泄漏了？
+
+没事，随便泄漏！
+
+➹：[微信小程序的 appid 可以告诉别人吗？ - 知乎](https://www.zhihu.com/question/290602722)
