@@ -71,3 +71,8 @@ Webview 是一个基于 webkit 的引擎，可以解析 DOM 元素，展示 html
 ➹：[webview 到底是什么？ - 掘金](https://juejin.cn/post/6950890297450561550)
 
 ➹：[微信小程序 webView 开发精华记录 看完不懂你打我 - 掘金](https://juejin.cn/post/6844903971862085646)
+
+7）有关下拉刷新和上拉加载的库？
+
+- [mescroll/mescroll: 精致的下拉刷新和上拉加载 js 框架。支持 vue, 完美运行于移动端和主流 PC 浏览器 (JS framework for pull-refresh and pull-up-loading)](https://github.com/mescroll/mescroll)
+- [stackjie/vue-pull-to: ⚡️  A pull-down refresh and pull-up load more and infinite scroll component for Vue.js --Vue 下拉刷新组件](https://github.com/stackjie/vue-pull-to)
