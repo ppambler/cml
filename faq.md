@@ -76,3 +76,11 @@ Webview 是一个基于 webkit 的引擎，可以解析 DOM 元素，展示 html
 
 - [mescroll/mescroll: 精致的下拉刷新和上拉加载 js 框架。支持 vue, 完美运行于移动端和主流 PC 浏览器 (JS framework for pull-refresh and pull-up-loading)](https://github.com/mescroll/mescroll)
 - [stackjie/vue-pull-to: ⚡️  A pull-down refresh and pull-up load more and infinite scroll component for Vue.js --Vue 下拉刷新组件](https://github.com/stackjie/vue-pull-to)
+
+8）什么是场景？
+
+场景是指需求产生的某种条件，这个条件包括但不限于环境，时间，地点，空间等，只有条件满足，这个需求才能成立，比如大家都有过等电梯的体验吧，在这个时间，干点什么时间太短，不干点什么电梯迟迟不到，又特别无聊，尤其人多的时候，眼睛都不知道放什么地方，所以分众传媒给电梯口挂了一个广告屏，让大家在排队的时候看广告，打发无聊时间，缓解尴尬，结果效果很好，但是这个广告屏如果挂在大门口，挂在其它地方，未必会有这个效果，这就是场景的作用。
+
+➹：[产品中的 “场景” 到底是指什么？ - 知乎](https://zhuanlan.zhihu.com/p/77320824)
+
+➹：[都在说场景 到底什么是场景？- 界面新闻 · JMedia](https://www.jiemian.com/article/578718.html)
