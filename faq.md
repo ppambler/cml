@@ -84,3 +84,14 @@ Webview 是一个基于 webkit 的引擎，可以解析 DOM 元素，展示 html
 ➹：[产品中的 “场景” 到底是指什么？ - 知乎](https://zhuanlan.zhihu.com/p/77320824)
 
 ➹：[都在说场景 到底什么是场景？- 界面新闻 · JMedia](https://www.jiemian.com/article/578718.html)
+
+9）双向数据绑定
+
+- [【新特性】双向数据绑定 & 数据监听器 - 微信开放社区](https://developers.weixin.qq.com/community/develop/article/doc/000aa2d18b8dc8cfd5fa5d60c51813)
+
+10）数据驱动
+
+- [1. 如何理解前端和 Vue - 被删的前端游乐场](https://godbasin.github.io/front-end-playground/vue/vue-for-everyone/vue-for-everyone-1.html#%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8)
+- [数据驱动编程 · Issue #14 · Alan110/blog](https://github.com/Alan110/blog/issues/14)
+- [一句话介绍什么是数据驱动？ - 知乎](https://www.zhihu.com/question/55480433)
+- [前端思维转变--从事件驱动到数据驱动 - Here. There.](https://godbasin.github.io/2017/09/29/data-driven-or-event-driven/)
