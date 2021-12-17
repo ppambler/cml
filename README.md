@@ -1,6 +1,6 @@
 # 多端开发
 
-> [FAQ](./faq.md)
+> [FAQ](./faq.md)、[uni-app](./uni-app.md)
 
 ## ★目录
 
