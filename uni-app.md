@@ -20,3 +20,19 @@
 下方控制台的大小可以改变的，用鼠标把它拉到底隐藏就行了
 
 ➹：[hbuilderx 每次点保存，下面控制台就弹出来了，好烦人啊，艹，怎么把它关了？？ - 知乎](https://www.zhihu.com/question/460538757/answer/2075075456
+
+4）nvue 是啥？
+
+uni-app 是逻辑和渲染分离的。渲染层，在 app 端提供了两套排版引擎：小程序方式的 webview 渲染，和 weex 方式的原生渲染。
+
+两种渲染引擎可以自己根据需要选。vue 文件走的 webview 渲染，nvue 走的原生渲染。
+
+组件和 js 写法是一样的，css 不一样，原生排版的能用的 css 必须是 flex 布局，这是 web 的 css 的子集。当然什么界面都可以用 flex 布出来。不懂 flex 布局就自己学。
+
+一般情况下用 vue 就可以了。如果是 app 且有部分场景 vue 页面的性能不满足你的需求时，这个页面可以改用 nvue 页面。如果 app 里同时存在同名的 vue 和 nvue 页面，在 app 端会优先执行 nvue 页面，而其他端仍然优先 vue 页面。
+
+> 官方推荐在 APP 使用 nvue，小程序和 H5 端使用 vue
+
+➹：[uniapp 里 nvue 和 vue 的关系是什么啊？为什么有 vue 文件了还要再重新为 app 单独写一份 nvue 呢 - DCloud 问答](https://ask.dcloud.net.cn/question/69854)
+
+➹：<https://uniapp.dcloud.io/nvue-outline>
