@@ -4,6 +4,16 @@
 
 > [HBuilderX - 知乎](https://www.zhihu.com/topic/20746230/hot)
 
+## ★一些资料
+
+- [uni-app—从安装到卸载](https://www.cnblogs.com/qisi007/p/10489176.html)
+
+## ★一些产品
+
+- [uniapp 组件平台-君兰 IT](https://www.junlan365.com/uniapp.html)
+
+## ★Q&A
+
 1）uni-app 中的生命周期？
 
 - [uniapp 中的一些生命周期理解 - 简书](https://www.jianshu.com/p/0366b9bc9a15)
@@ -36,3 +46,11 @@ uni-app 是逻辑和渲染分离的。渲染层，在 app 端提供了两套排�
 ➹：[uniapp 里 nvue 和 vue 的关系是什么啊？为什么有 vue 文件了还要再重新为 app 单独写一份 nvue 呢 - DCloud 问答](https://ask.dcloud.net.cn/question/69854)
 
 ➹：<https://uniapp.dcloud.io/nvue-outline>
+
+5）预览页面
+
+- [微信小程序设置预览页面的三种方式 - 简书](https://www.jianshu.com/p/08bd448408a0)
+
+6）分包
+
+- [小程序分包 小程序页面空白 小程序上线后分包页面空白_glorious_future 的博客-CSDN 博客](https://blog.csdn.net/glorious_future/article/details/115132111)

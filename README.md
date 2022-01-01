@@ -1,6 +1,6 @@
 # 多端开发
 
-> [FAQ](./faq.md)、[uni-app](./uni-app.md)
+> [FAQ](./faq.md)、[微信小程序](./mini-program.md)、[uni-app](./uni-app.md)
 
 ## ★目录
 
