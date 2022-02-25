@@ -16,9 +16,15 @@ Vue -> WXML、WXSS、JavaScript
 
 可以用了，公司新项目一般会用 Vue3 来搞！
 
+> 关于老师的课，为了找工作先看 Vue3，打基础先看 JS 高级
+
 Vue3 兼容 Vue2
 
 💡：广州和深圳，同水平去哪儿？
 
 - 广州更适合生活
 - 深圳更适合奋斗
+
+💡：请求写在哪儿？created 和 mounted？
+
+这两个都行，建议写在 created！
