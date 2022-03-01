@@ -95,3 +95,14 @@ patch 版本会自动更新，微信 APP 不会提示
 ➹：[蓝绿部署、金丝雀发布（灰度发布）、AB 测试_微服务_看山_InfoQ 写作平台](https://xie.infoq.cn/article/cb4c23379a9e2d2b07c4a61fe)
 
 ➹：[基础库 - 微信开放文档](https://developers.weixin.qq.com/miniprogram/dev/framework/client-lib/)
+
+💡：小程序的`background-image`不能用本地图片，只能用网络图片
+
+没有网络图片，只有本地图片？ -> 转成 Base64 即可！
+
+💡：Tailwind css
+
+写 CSS 很快！未来趋势 -> 写个类即可
+
+
+
