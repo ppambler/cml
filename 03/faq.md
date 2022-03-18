@@ -131,3 +131,8 @@ Axios 目前很稳定了，没啥更新的必要，而 React 是 Facebook 的，
 💡：JS DOC
 
 - [JavaScript 之注释规范化（JSDoc）](https://knightyun.github.io/2020/03/13/js-comment-format)
+
+💡：MongoDB？
+
+公司一般用得少，大数据用的比较多 -> 一般公司用的是关系型数据库，MySQL 和 Oracle
+
